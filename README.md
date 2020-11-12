@@ -4,4 +4,4 @@ This is an example of a repositry where we will track our shell histories.
 * Shell not so basic
 * Other
 ```python
-value = 42.00´´´
+value = 42.00
