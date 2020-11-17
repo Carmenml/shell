@@ -1,0 +1,449 @@
+sudo echo echo
+echo Hello world
+echo @Hello world
+echo Hello world
+echo "Hello world"
+echo Hello ; echo hello2
+echo 'Hello ; echo hello2'
+printenv
+echo $SHELL
+echo $shell
+echo "$SHELL"
+echo '$SHELL'
+echo 'this is\
+another "\
+one'
+echo "this is \
+double "
+echo "this is\
+single'\
+"
+echo "world \\
+is on the same line"
+echo  "kkdhdhh
+echo "this is \n new line"
+echo "this is \t new line"
+echo "this is \\ new line"
+echo thi ; echo that
+echo this \; echo that
+echo "this is text with " comillas dobles "
+echo "this is text with \" comillas dobles "
+echo "this dollar sign $SHELL"
+echo "this dollar sign \$SHELL"
+cat /proc/cpuinfo
+cat /etc/os-release
+cd
+cd Data/
+cd 
+cd Data 
+cd
+cd Data/shell
+cd ../
+cd -
+cd
+cd Data/shell
+cat Text_example.txt
+cat -n Text_example.txt
+cat -n Text_example.txt Text_example.txt Text_example.txt
+cd
+cat ./Data/shell/Text_example.txt
+cat /Data/shell/Text_example.txt
+cat Data/shell/Text_example.txt
+cat books/self-service-analytics.pdf
+62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+pwd
+cd Data
+pwd
+cd
+pwd
+cat /home/dsc/Data/shell/Text_example.txt
+cat /home/dsc/Data/shell/Text_example.txt Data/opentraveldata/optd_aircraft.csv
+cat /home/dsc/Data/shell/Text_example.txt Data/opentraveldata/optd_aircraft.csv -n
+cat /home/dsc/Data/shell/Text_example.txt Data/opentraveldata/optd_aircraft.csv -n 
+ls
+cd Data/challenge
+ls
+cd
+ls anaconda3
+cd anaconda3
+ls
+ls -1
+ls -s
+ls -1s
+cd
+ls 
+ls -a
+cd .emacs.d
+ls
+cd
+ls -a
+ls -la
+ls -l Data/README.md
+ls -l Data/README.md Data/shell/Text_example.txt
+ls -l Data/README.md Data/shell/Text_example.txt-1
+ls -l Data/README.md Data/shell/Text_example.txt -1
+ls -aS
+ls -aSl
+ls -aSr
+ls -aSrl
+ls -atl
+history
+touch file00
+ls file00
+ls -l file00
+chmod u+x,g-w,o+w file00
+ls -l file00
+rwx = 101 = 2(2)*1 +2(1)*0 + 2(0)*1 = 5
+chmod 777 file00
+ls -l file00
+chmod 707 file00
+ls -l file00
+chmod g+w file00
+chmod g-w file00
+mkdir my_first_dir
+mkdir my_first_dir2 my_first_dir3
+ls -l
+mkdir my_second_dir/uno
+mkdir -p my_second_dir/uno
+rm file00
+touch fichero2
+cp fichero2 fichero3
+ls
+cp fichero2 fichero3 my_first_dir
+ls my_first_dir
+cp my_first_dir my_first_copy
+cp -r my_first_dir my_first_copy
+ls my_first_copy
+mv fichero2 fichero_moved
+ls
+mv my_first_copy my_moved_dir
+ls
+mv fichero3 fichero_moved my_moved_dir
+ls
+ls my_moved_dir
+cd
+ls
+mkdir "firts_dir"
+ls
+history
+mkdir first dir
+ls
+touch text_file.txt
+mv text_file.txt first dir
+ls firts_dir
+ls
+ls first list
+ls first dir
+cd firts_dir
+ls
+touch text_file.txt
+ls
+chmod g+x,o+w text_file.txt
+chmod
+ls l
+ls -1
+lsr
+mkdir first_dir
+touch first_dir/text_file.txt
+ls
+cd first_dir
+chmod g+x,o+w text_file.txt
+ls -l
+mkdir sub1 sub2 text_file
+ls
+cp text_file.txt sub1
+ls sub1
+mv text_file.txt sub2
+mv text_file.txt sub2/text_file.txt.2
+mv text_file.txt text_file.txt.2
+cp -r sub1 sub3
+ls
+mv sub2/text_file.txt sub2/text_file.txt.backup
+mv sub2/text_file.txt.backup ./.text.file.txt.backup
+ls
+ls -a
+rm -r sub2
+la
+cd
+git config
+git config --global user.name "Carmen MuÃ±oz"
+git config --global user.email "carmenmunoz3997@gmail.com"
+cat .gitconfig
+gedit .gitconfig
+cat .history > 2020-11-11.txt
+pwd
+mkdir git
+ls
+echo "# shell"
+ls
+pwd
+cd git
+echo "# shell" >> README.md
+ls
+cat README.md
+git init
+git config --get user.name
+ll
+git add README.md
+git commit -m
+git status
+touch kk.txt
+git status
+ls l-lrt
+git commit -m "first commit adding README.md"
+git branch -M main
+git branch -M master
+git status
+git remote add origin https://github.com/Carmenml/shell.git
+git push -u origin master
+gedit README.md
+git add README.md
+git commit -m "README edited"
+git push -u README.md
+git push origin master
+gedit README.md
+git add README.md
+git commit -m "README edited2"
+git push origin master
+man bash
+cd
+cd Data
+cd ..
+cd Data/opentraveldata
+head optd_airlines.csv
+tail -n 1 optd_airlines.csv
+less optd_airlines.csv
+cd ..
+cd
+cd Data/shell
+less Finn.txt
+ls
+cd ..
+ls
+cd
+cd Data/opentraveldata
+ll
+bash
+exit
+which bash
+which ll
+alias ll="ls -lrth"
+ll
+which ll
+exit
+history
+which ll
+ll
+echo $SHELL
+echo $TERM
+whoami
+dc
+echo $HOST
+echo $USER
+printenv
+printenv HOST
+printenv
+printen HOST
+printenv HOST
+echo SHELL
+echo "SHELL
+echo "SHELL"
+echo (SHELL)
+echo $"SHELL"
+echo "$SHELL"
+echo 'SHELL'
+echo `SHEL`
+echo `SHELL`
+echo 'hola $HOME'
+echo "hola $HOME"
+echo `date`
+`date`
+echo $date
+echo $`date`
+echo "Hola `date`"
+echo `SHELL`
+echo $(date)
+echoecho (date)
+echo (date)
+echo "$(date)"
+echo "world\\
+is mine"
+echo "world\
+\
+is mine\
+we"
+echo "world \\
+is mine"
+echo "hola \\ mundo"
+echo "hello\"world\""
+echo "hello"world""
+echo "this is \n new line"
+echo "this ie \t onshh"
+echo this is echo of echo
+echo this is ; echo of echo
+echo this is \; echo of echo
+echo this is \; echo "of echo"
+echo this is \; echo $(of echo)
+cd Data/shell
+cat  Text_example.txt
+pwd
+echo $PWD
+Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±Ãƒ±
+~
+ls
+ls -1
+ls -s
+la -1s
+la -lh
+ls -a
+ls -s
+ls -S
+ls -lSr
+ls -lt
+le -ltX
+ls -ltX
+chmod
+chmod777
+chmod 777
+chmod 777 Finn.txt
+ls -1
+ls -lt
+echo @Hola mundo@
+echo "Hola mundo" > pp.txt
+head pp.txt
+exit
+echo "Hola mundo" >> pp.txt
+head pp.txt
+echo "Adios mundo" > pp.txt
+head pp.txt
+touch pp2.txt
+clear
+touch pp.txt
+echo "" 
+echo "" > pp2.txt
+gedit pp3.txt
+head pp3.txt
+$HISTFILE
+echo $HISTFILE
+tail -n 5 /home/dsc/.history 
+ls -l home/dsc/.history
+ll $HISTFILE
+cp /home/dsc/.history git
+mkdir folder 1
+mkdir folder2
+mkdir folder1
+touch folder1/one
+touch folder2/two
+rsync -avz folder1/one folder2
+ll folder2
+echo "first line" >>folder1/one
+head folder1/one
+head folder2/one
+rsync -avz folder1/one folder2
+head folder2/one
+ll folder2
+touch folder1/oneB
+touch folder2/three
+ll folder2
+ll folder1
+rsync -avz folder1 folder2
+ll folder2
+rsync -avz folder1/ folder2
+rm -1 folder2/folder1
+rm -r folder2/folder1
+ll folder2
+rsync -avz folder1/ 192.321.312: ~/folder1
+ll
+cp ~/.history history_20201117.txt
+ll
+mv history_20201117.txt git
+cd git
+ls
+git status
+git add history_20201117.txt
+git comit -m "added my first history"
+git push origin master
+ll
+git status
+history -i
+man history
+history -f
+history -n
+cd ..
+cd ~
+ls
+cd Data
+cd shell
+ll
+wc Text_example.txt
+head -n 8 Text_example.txt
+wc -w Text_example.txt
+wc -l Text_example.txt
+wc -c Text_example.txt
+wc -m Text_example.txt
+echo "Hola"
+echo "Hola" | wc
+echo -n "Hola" | wc
+cat Text_example.txt | wc
+cat Text_example.txt | wc -l
+wc Text_example.txt
+ls
+cd ..
+ls
+cd ..
+ls
+cd Data/airline_tickets
+ls
+cd ..
+cd opentraveldata
+ls
+tail -c -1k optd_aircraft.csv | wc
+head -c -1k optd_aircraft.csv | wc
+head -c 1K optd_aircraft.csv | wc
+head -c 1k optd_aircraft.csv | wc
+ls -aSl
+ls
+ls -a
+ls -atl
+ls -asl
+ls -1
+ls -n1
+ls -lrt | tail -n 1
+ls -sSl
+ls -sSlr
+cd ..
+cd..
+cd ..
+ls -sSlr /home/dsc/Data/opentraveldata | tail -n 1 > largest_file.txt
+ls
+cat largest_file.txt
+head -n 5 /home/dsc/Data/shell/Finn.txt
+head -n 5 /home/dsc/Data/shell/Finn.txt | wc
+findÃ§
+head -n 5 /home/dsc/Data/shell/Finn.txt | wc -w
+head Data/shell/Finn.txt
+cat -n Data/shell/Finn.txt | head -n 3
+cat -n Data/shell/Text_example.txt > newfilewithnumber.txt
+ls
+cat newfilewithnumber.txt
+touch newfiletwicecontent.txt
+cat ~/.history| grep rsync
+cat ~/.history| grep release
+cat ~/.history| grep rsync
+rsync -avz folder1/ 192.321.312: ~/folder1
+cd Data/shell
+ls
+Text.example.txt > /home/dsc/newfiletwicecontent.txt
+cat Text.example.txt > /home/dsc/newfiletwicecontent.txt
+cat Text_example.txt
+cat Text_example.txt > /home/dsc/newfiletwicecontent.txt
+cat Text_example.txt >> /home/dsc/newfiletwicecontent.txt
+cd ..
+ls
+cat newfilewithnumber.txt
+cat ~/.history|grep cp
+cp $HISTFILE ~/git/history_20201117.txt
+git add history_20201117.txt
+[200~cp ~/.history history_20201117.txt
+cd git
+cp $HISTFILE history_20201117.txt
